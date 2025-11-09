@@ -4,9 +4,9 @@
 
 Octree is an intelligent LaTeX editing platform that combines real-time PDF compilation, AI assistance, and tools to help researchers, students, and professionals create publication-ready documents efficiently.
 
-- **Website**: [Octree](https://useoctree.com)  
-- **Free Tools**: [Tools](https://tools.useoctree.com/)
-- **Free Templates**: [Templates](https://tools.useoctree.com/templates/)
+- **Website**: [https://useoctree.com](https://useoctree.com)  
+- **Free Tools**: [https://tools.useoctree.com](https://tools.useoctree.com/)
+- **Free Templates**: [https://tools.useoctree.com/templates](https://tools.useoctree.com/templates/)
 
 ## Why Octree?
 
