@@ -6,6 +6,7 @@ Octree is an intelligent LaTeX editing platform that combines real-time PDF comp
 
 **Website**: [Octree](https://useoctree.com)  
 **Free Tools**: [Tools](https://tools.useoctree.com/)
+
 **Free Templates**: [Templates](https://tools.useoctree.com/templates/)
 
 ## Why Octree?
