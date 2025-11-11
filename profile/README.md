@@ -10,7 +10,7 @@ Octree is an intelligent LaTeX editing platform that combines real-time PDF comp
 
 ## Why Octree?
 
-Traditional LaTeX editing can be complex and time-consuming, but Octree transforms the experience with AI-powered writing that generates code, fixes errors, and provides intelligent suggestions, alongside real-time compilation that shows your PDF output instantly as you type. With zero setup required, built-in TikZ diagram generation, and smart document structure management, you can start creating professional documents immediately without any installation.
+Traditional LaTeX editing can be complex and time-consuming, but Octree transforms the experience with AI writing that generates code, fixes errors, and provides intelligent suggestions, alongside real-time compilation that shows your PDF output instantly as you type. With zero setup required, built-in TikZ diagram generation, and smart document structure management, you can start creating professional documents immediately without any installation.
 
 
 *From idea to publication-ready documents in minutes. Generate TikZ diagrams, structure your sections, and refine with AI, no syntax, no setup.*
